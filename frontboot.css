@@ -1,0 +1,28 @@
+@media(min-width:760px)
+{
+    .news-input
+    {
+        width: 50%;
+    }
+}
+
+
+
+#map
+{
+    width: 300px;
+    height: 300px;
+    border-radius:10px;
+}
+
+#info
+{
+    width: 100%;
+    height: 100%;
+    border-radius:10px;
+}
+
+#lgo
+{
+    margin:50px;
+}
